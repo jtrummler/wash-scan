@@ -1,1 +1,1 @@
-# wash-scan
+# WASH Scan  
